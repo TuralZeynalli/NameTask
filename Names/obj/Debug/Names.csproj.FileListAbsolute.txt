@@ -1,0 +1,6 @@
+C:\Users\tural\Desktop\Names\Names\bin\Debug\Names.exe
+C:\Users\tural\Desktop\Names\Names\bin\Debug\Names.pdb
+C:\Users\tural\Desktop\Names\Names\obj\Debug\Names.csproj.AssemblyReference.cache
+C:\Users\tural\Desktop\Names\Names\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Users\tural\Desktop\Names\Names\obj\Debug\Names.exe
+C:\Users\tural\Desktop\Names\Names\obj\Debug\Names.pdb
